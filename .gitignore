@@ -3,3 +3,7 @@ scihub/
 .ipynb_checkpoints/
 
 html_google_scholar/papers/
+
+html_google_scholar/papers_text/
+
+html_google_scholar/papers_text_R/
